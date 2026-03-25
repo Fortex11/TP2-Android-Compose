@@ -14,3 +14,9 @@ Pour lancer :
 3. Run l'application
 
 Le Switch clair/sombre est en haut à droite de l'écran.
+
+TP3 - Application Anime
+
+Description
+Application Android développée avec Jetpack Compose permettant de gérer une liste d’anime avec des favoris etc...
+
